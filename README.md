@@ -2,17 +2,9 @@
 <p align="left">
 </p>
 
-
-Hi there! I’m Irmak, focused on software development and always looking to improve my skills.
-
-
-
-
-
-
-
-
-
+<p align="justify">
+Hi there! I'm Irmak, focused on software development and always looking to improve my skills.
+</p>
 
 
 
