@@ -1,7 +1,3 @@
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<p align="left">
-</p>
-
 Hi there! I'm Irmak, focused on software development and always looking to improve my skills.
 
 <h3 align="left">Languages and Tools:</h3>
