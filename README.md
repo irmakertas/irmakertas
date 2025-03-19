@@ -5,7 +5,7 @@ I’m a second-year Management Information Systems student at Medipol University
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 - 🌱 **I’m currently learning**:
   - Machine Learning
-  - C Language
+  - C 
 
 - 📫 **Reach out to me at**: [irmakertas8@gmail.com](mailto:irmakertas8@gmail.com)
 
